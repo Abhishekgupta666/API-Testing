@@ -155,20 +155,3 @@ Your tests can include multiple assertions as part of a single test. Use this to
 <h5 class="code-line" data-line-start=75 data-line-end=76 ><a id="Reference_75"></a>Reference</h5>
 <p class="has-line-data" data-line-start="76" data-line-end="78">Postman JavaScript reference: Using variables<br>
 Test script examples:  getting-started-with-tests</p>
-
-## List Of Demo Website For Testing
-- https://calendarific.com/api-documentation
-- https://gorest.co.in
-- https://reqres.in/
-- https://httpbin.org/
-- http://dummy.restapiexample.com/
-- https://jsonplaceholder.typicode.com/
-- https://fakerestapi.azurewebsites.net/
-- https://www.programmableweb.com/apis/directory
-- https://developers.google.com/maps/documentation
-- https://developer.github.com/v3/repos/
-- https://rickandmortyapi.com/documentation/#character-schema
-- https://restful-booker.herokuapp.com/apidoc/index.html
-- https://pokeapi.co/
-- http://www.omdbapi.com/
-- https://resttesttest.com/
